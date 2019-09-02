@@ -1,1 +1,0 @@
-# Automatic-Leaf-Infection-Detection
